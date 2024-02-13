@@ -11,6 +11,7 @@ const query = gql`
       description
       productNumber
       licenseNumber
+      validationCode
       downloadUrl
     }
   }

@@ -9,7 +9,7 @@ export const { getClient } = registerApolloClient(() => {
   return new NextSSRApolloClient({
     cache: new NextSSRInMemoryCache(),
     link: new HttpLink({
-      uri: "https://qbhelpbackend.onrender.com/",
+      uri: "https://qbhelpengine.onrender.com/",
     }),
   });
 });

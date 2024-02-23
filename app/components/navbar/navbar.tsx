@@ -32,8 +32,9 @@ export function Navbar() {
         </div>
         <div className="flex flex-col mt-10 md:w-[700px] md:mx-auto">
           <h1 className="text-white font-semibold text-xl md:text-3xl">
-            Downaload quickbooks pos and enterprise,
-            <br /> free license codes and support
+            Download Quickbooks, Photoshop, IDM, games, coreldraw, and office.
+            <br />
+            Whatsapp: +1(315)284-1484
           </h1>
           <SearchProgram />
         </div>

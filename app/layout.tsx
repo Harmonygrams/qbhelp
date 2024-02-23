@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Quickbooks Vendor",
   description:
-    "Download Quickbooks Enterprise | Download Quickbooks Point Of Sales",
+    "Download Free License Quickbooks, Photoshop, Pos, Games, Internet download manager",
 };
 
 export default function RootLayout({

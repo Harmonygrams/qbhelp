@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Quickbooks Vendor",
+  title: "Download Free License Quickbooks Pos - Quickbooks Enterprise",
   description:
     "Download Free License Quickbooks, Photoshop, Pos, Games, Internet download manager",
 };

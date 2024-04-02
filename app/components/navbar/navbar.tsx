@@ -34,7 +34,7 @@ export function Navbar() {
           <h1 className="text-white font-semibold text-xl md:text-3xl">
             Download Quickbooks, Photoshop, IDM, games, coreldraw, and office.
             <br />
-            Whatsapp: +1(315)284-1484
+            Whatsapp: +2348074546389
           </h1>
           <SearchProgram />
         </div>
